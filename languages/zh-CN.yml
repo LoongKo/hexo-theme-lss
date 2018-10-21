@@ -1,0 +1,7 @@
+menu:
+  home: 首页
+  archives: 归档
+
+paginator:
+  prev: 上一页
+  next: 下一页
